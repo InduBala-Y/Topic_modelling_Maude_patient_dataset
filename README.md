@@ -3,3 +3,4 @@ In this study, a topic modeling analysis was conducted on the MAUDE dataset, spe
 
 To achieve this, topic modeling techniques were employed to uncover meaningful topics within the dataset. By extracting and examining the topics, the researchers aimed to identify the most relevant issues discussed by patients regarding their experiences after mesh implantation. Furthermore, the topics were then mapped to specific adverse events to gain a comprehensive understanding of the types and frequencies of AEs reported by patients.
 By conducting this analysis, the study aimed to shed light on the pattern and distribution of AEs associated with mesh implantation for hernia surgery over the examined time period. The findings would provide valuable insights into the potential risks and complications related to this surgical procedure, enabling healthcare professionals to better understand and address these concerns.
+The work is still in progress ... 
